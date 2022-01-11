@@ -1,5 +1,5 @@
 import java.util.*;
-public class maxcoinsbottomrowcannotpick {
+public class max_coins_bottom_row_cannot_pick {
 
     public static void main(String[] args) {
 		//Your Code Here
