@@ -1,5 +1,5 @@
 import java.util.*;
-public class word_break {
+public class WordBreak {
     
     static void breakWord(List<String> wordsList, String str, String output, int start )
     {
