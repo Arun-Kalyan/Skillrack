@@ -11,7 +11,7 @@ class Item implements Comparable <Item> {
     
     
 }
-public class vendor_maximum_profit {
+public class VendorMaximumProfit {
 
     public static void main(String[] args) {
 		//Your Code Here
