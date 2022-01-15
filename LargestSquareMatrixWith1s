@@ -1,5 +1,5 @@
 import java.util.*;
-public class largestsquarematrixwith1s {
+public class LargestSquareMatrixWith1s {
 
     public static void main(String[] args) {
 		//Your Code Here
