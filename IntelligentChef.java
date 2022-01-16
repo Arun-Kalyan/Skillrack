@@ -10,7 +10,7 @@ class FoodItem implements Comparable<FoodItem>{
         return this.customers.size() - other.customers.size();
     }
 }
-public class intelligent_chef {
+public class IntelligentChef {
 
     public static void main(String[] args) {
 		//Your Code Here
