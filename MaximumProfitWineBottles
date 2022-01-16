@@ -1,5 +1,5 @@
 import java.util.*;
-public class maximum_profit_winebottles {
+public class MaximumProfitWineBottles {
 	static int maxRevenue(int [] prices, int [][] max, int left, int right, int year)
     {
         if(max[left][right] !=0)
