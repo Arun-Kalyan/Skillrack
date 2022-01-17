@@ -1,5 +1,5 @@
 import java.util.*;
-public class streettravelcount {
+public class StreetTravelCount {
 	static List<Integer> getRelated (int [][] matrix, int node, int N)
     {
         List<Integer> nodes = new ArrayList<>();
