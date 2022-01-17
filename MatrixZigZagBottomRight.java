@@ -1,5 +1,5 @@
 import java.util.*;
-public class matrixzigzagbottomright {
+public class MatrixZigZagBottomRight {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
