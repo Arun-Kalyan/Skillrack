@@ -1,5 +1,5 @@
 import java.util.*;
-public class corona_virus {
+public class CoronaVirus {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
