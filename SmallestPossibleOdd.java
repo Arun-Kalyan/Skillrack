@@ -1,5 +1,5 @@
 import java.util.*;
-public class smallestpossibleodd {
+public class SmallestPossibleOdd {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
