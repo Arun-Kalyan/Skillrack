@@ -1,5 +1,5 @@
 import java.util.*;
-public class matrixzigzagtopleft {
+public class MatrixZigZagTopLeft {
 
 	public static void main(String[] args) {
 		
